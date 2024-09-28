@@ -1,10 +1,10 @@
 {
     "name":"VPM Package Repository",
     "id":"dev.paltee.vpm",
-    "url":"https://paralleltree.github.io/vpm-repository/index.json",
+    "url":"https://vpm.paltee.dev/index.json",
     "author":{
         "email":"",
-        "name":"",
+        "name":"Paralleltree",
         "url":""
     },
     "description":"",
